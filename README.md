@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trapzofficial&layout=compact&theme=radical&langs_count=10" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=trapzofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -51,7 +55,7 @@
 
 ---
 
-### Languages & Tools
+### Languages & Tools (Manual Logos)
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
