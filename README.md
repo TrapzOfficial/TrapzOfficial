@@ -10,22 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trapzofficial&layout=compact&theme=radical&langs_count=16" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trapzofficial&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=trapzofficial" />
-  </a>
-</p>
-
 ---
 
-### 🚀 Level & Stars
+### 📊 Stats & Activity
 <p align="center">
-  <img src="https://img.shields.io/badge/Level-15-brightgreen?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/trapzofficial?style=for-the-badge&label=Total%20Stars&logo=star"/>
+  <img src="https://img.shields.io/github/stars/trapzofficial?style=for-the-badge&logo=star&label=Stars"/>
+  <img src="https://img.shields.io/github/issues/TrapzOfficial/Advenced-Java?style=for-the-badge&logo=github&label=Issues"/>
+  <img src="https://img.shields.io/github/issues-closed/TrapzOfficial/Advenced-Java?style=for-the-badge&logo=github&label=Issues%20Closed"/>
+  <img src="https://img.shields.io/github/followers/trapzofficial?style=for-the-badge&logo=github&label=Followers"/>
 </p>
 
 ---
@@ -51,7 +43,7 @@
 
 ---
 
-### Connect with me:
+### 🌐 Connect with me
 <p align="center">
   <a href="https://www.youtube.com/@nowblx" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40"/>
@@ -63,7 +55,7 @@
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
